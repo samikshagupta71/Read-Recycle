@@ -103,7 +103,8 @@ a{
 }
 .text-small{
     font-size: 18px;
-    color: black;
+    color: #401f03;
+    font-style: oblique;
 }
 .background{
     background: rgba(0, 0, 0, 0.7) url('https://assets.weforum.org/article/image/JMF96ETfn1kSViVnUou1Z0XIDwWcPpT5mrPc7-ytpAc.jpg');
